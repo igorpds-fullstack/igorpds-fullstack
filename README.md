@@ -71,20 +71,17 @@ Engenheiro **fullstack** baseado em São Paulo. Há 5 anos entrego sistemas que 
 ### 📊 GitHub em números
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=igorpds-fullstack&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&icon_color=34d399" alt="Estatísticas" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=igorpds-fullstack&hide_border=true&background=0d1117&stroke=21262d&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/igorpds-fullstack/igorpds-fullstack/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo do perfil" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpds-fullstack&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=8" alt="Linguagens" />
+  <img height="200" src="https://raw.githubusercontent.com/igorpds-fullstack/igorpds-fullstack/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens por repositório" />
+  <img height="200" src="https://raw.githubusercontent.com/igorpds-fullstack/igorpds-fullstack/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas" />
 </p>
 
----
-
-### 🏆 Troféus
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igorpds-fullstack&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=igorpds-fullstack&hide_border=true&background=0d1117&stroke=21262d&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="Streak" />
+  <img height="200" src="https://raw.githubusercontent.com/igorpds-fullstack/igorpds-fullstack/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários mais produtivos" />
 </p>
 
 ---
