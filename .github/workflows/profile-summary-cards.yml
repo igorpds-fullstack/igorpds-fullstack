@@ -1,0 +1,29 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Roda todo dia à meia-noite (UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Precisa ser um Personal Access Token salvo como secret do repo.
+          # (o token padrão GITHUB_TOKEN não gera todos os cards)
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # São Paulo = UTC-3 (deixa o card de horários certo pro seu fuso)
+          UTC_OFFSET: -3
+          # Gera só o tema que o README usa; troque aqui pra experimentar outros
+          THEME: github_dark
+          AUTO_PUSH: true
