@@ -12,8 +12,8 @@
   <a href="mailto:igor.santos@mpdsconsultoria.com"><img alt="E-mail" src="https://img.shields.io/badge/e--mail-get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="./README.md"><img alt="Português" src="https://img.shields.io/badge/ler%20em-portugu%C3%AAs-1F2430?style=flat-square" /></a>
   &nbsp;
-  <a href="./.github/workflows/veracity.yml"><img alt="Veracity CI" src="https://github.com/igorpds-fullstack/igorpds-fullstack/actions/workflows/veracity.yml/badge.svg" /></a>
-  <a href="./.github/workflows/profile-assets.yml"><img alt="Panels last generated" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Figorpds-fullstack%2Figorpds-fullstack%2Fmain%2Fassets%2Fbadge-updated.json" /></a>
+  <a href="./.github/workflows/veracity.yml"><img alt="Veracity CI" src="https://github.com/igorpdsantos/igorpdsantos/actions/workflows/veracity.yml/badge.svg" /></a>
+  <a href="./.github/workflows/profile-assets.yml"><img alt="Panels last generated" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Figorpdsantos%2Figorpdsantos%2Fmain%2Fassets%2Fbadge-updated.json" /></a>
 </p>
 
 ---
@@ -137,9 +137,9 @@ Next.js 16 + React 19, Tailwind v4, PT/EN i18n, animation with Motion and GSAP, 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorpds-fullstack/igorpds-fullstack/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorpds-fullstack/igorpds-fullstack/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/igorpds-fullstack/igorpds-fullstack/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorpdsantos/igorpdsantos/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorpdsantos/igorpdsantos/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/igorpdsantos/igorpdsantos/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 

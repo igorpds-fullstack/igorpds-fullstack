@@ -2,7 +2,7 @@
 
 const TOKEN =
   process.env.METRICS_TOKEN || process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
-export const USER = process.env.PROFILE_USER || "igorpds-fullstack";
+export const USER = process.env.PROFILE_USER || "igorpdsantos";
 
 if (!TOKEN) {
   throw new Error(

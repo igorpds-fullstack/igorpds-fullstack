@@ -48,7 +48,7 @@ function prose(md) {
     .replace(/<source[^>]*>/gi, " ")
     .replace(/https?:\/\/\S+/g, " ")
     .replace(/\]\([^)]*\)/g, "] ")
-    .replace(/igorpds-fullstack/g, " ");
+    .replace(/igorpdsantos|igorpds-fullstack/g, " ");
 }
 
 /** Marca as faixas protegidas por <!-- veracity:knowledge --> com espaços. */
