@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="462" viewBox="0 0 1000 462" fill="none" role="img">
+<defs>
+<pattern id="gridPat" width="30" height="30" patternUnits="userSpaceOnUse">
+  <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#F1F1F6" stroke-width="1"/>
+</pattern>
+<radialGradient id="glow" cx="92%" cy="4%" r="70%">
+  <stop offset="0%" stop-color="#6D28D9" stop-opacity="0.13"/>
+  <stop offset="100%" stop-color="#6D28D9" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#6D28D9" stop-opacity="0"/>
+  <stop offset="35%" stop-color="#7C3AED"/>
+  <stop offset="65%" stop-color="#6D28D9"/>
+  <stop offset="100%" stop-color="#6D28D9" stop-opacity="0"/>
+</linearGradient></defs>
+<style></style>
+
+
+<rect width="1000" height="462" rx="16" fill="#FFFFFF"/>
+<rect width="1000" height="462" rx="16" fill="url(#gridPat)"/>
+<rect width="1000" height="462" rx="16" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="999" height="461" rx="16" stroke="#E4E4EE"/>
+<text x="40" y="46" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#14141B" text-anchor="start" opacity="1">STACK</text>
+<text x="102" y="46" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#8A8A9E" text-anchor="start" opacity="1">// organizada por capacidade, não por parede de logos</text>
+<rect x="40" y="60" width="920" height="1" fill="#E4E4EE"/>
+<rect x="40" y="93" width="3" height="16" rx="1.5" fill="#6D28D9" opacity="0.6"/><text x="53" y="105" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#14141B" text-anchor="start" opacity="1">Produto &amp; aplicação</text><g>
+<rect x="245" y="88" width="58" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="256" y="105" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">React</text>
+</g><g>
+<rect x="311" y="88" width="94" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="322" y="105" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">TypeScript</text>
+</g><g>
+<rect x="413" y="88" width="72" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="424" y="105" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Next.js</text>
+</g><g>
+<rect x="493" y="88" width="94" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="504" y="105" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">JavaScript</text>
+</g><g>
+<rect x="595" y="88" width="108" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="606" y="105" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Tailwind CSS</text>
+</g><rect x="40" y="141" width="3" height="16" rx="1.5" fill="#6D28D9" opacity="0.6"/><text x="53" y="153" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#14141B" text-anchor="start" opacity="1">Mobile</text><g>
+<rect x="245" y="136" width="108" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="256" y="153" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">React Native</text>
+</g><g>
+<rect x="361" y="136" width="51" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="372" y="153" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Expo</text>
+</g><g>
+<rect x="420" y="136" width="116" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="431" y="153" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">offline-first</text>
+</g><g>
+<rect x="544" y="136" width="152" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="555" y="153" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">push notifications</text>
+</g><g>
+<rect x="704" y="136" width="166" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="715" y="153" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">publicação nas lojas</text>
+</g><rect x="40" y="206" width="3" height="16" rx="1.5" fill="#6D28D9" opacity="0.6"/><text x="53" y="218" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#14141B" text-anchor="start" opacity="1">Integração &amp; automação</text><g>
+<rect x="245" y="184" width="87" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="256" y="201" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">APIs REST</text>
+</g><g>
+<rect x="340" y="184" width="137" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="351" y="201" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">Azure Logic Apps</text>
+</g><g>
+<rect x="485" y="184" width="166" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="496" y="201" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">Azure API Management</text>
+</g><g>
+<rect x="659" y="184" width="80" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="670" y="201" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">webhooks</text>
+</g><g>
+<rect x="747" y="184" width="58" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="758" y="201" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Asaas</text>
+</g><g>
+<rect x="813" y="184" width="72" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="824" y="201" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Celcoin</text>
+</g><g>
+<rect x="893" y="184" width="58" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="904" y="201" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Vindi</text>
+</g><g>
+<rect x="245" y="218" width="130" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="256" y="235" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">reprocessamento</text>
+</g><g>
+<rect x="383" y="218" width="130" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="394" y="235" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">troubleshooting</text>
+</g><rect x="40" y="271" width="3" height="16" rx="1.5" fill="#6D28D9" opacity="0.6"/><text x="53" y="283" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#14141B" text-anchor="start" opacity="1">Low-code engineering</text><g>
+<rect x="245" y="266" width="87" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="256" y="283" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">Bubble.io</text>
+</g><g>
+<rect x="340" y="266" width="159" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="351" y="283" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">workflows complexos</text>
+</g><g>
+<rect x="507" y="266" width="166" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="518" y="283" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">plugins customizados</text>
+</g><g>
+<rect x="681" y="266" width="101" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="692" y="283" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">performance</text>
+</g><g>
+<rect x="790" y="266" width="94" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="801" y="283" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">data types</text>
+</g><rect x="40" y="319" width="3" height="16" rx="1.5" fill="#6D28D9" opacity="0.6"/><text x="53" y="331" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#14141B" text-anchor="start" opacity="1">Dados</text><g>
+<rect x="245" y="314" width="44" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="256" y="331" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">SQL</text>
+</g><g>
+<rect x="297" y="314" width="94" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="308" y="331" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">SQL Server</text>
+</g><g>
+<rect x="399" y="314" width="94" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="410" y="331" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">PostgreSQL</text>
+</g><g>
+<rect x="501" y="314" width="87" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="512" y="331" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">modelagem</text>
+</g><g>
+<rect x="596" y="314" width="101" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="607" y="331" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">conciliação</text>
+</g><g>
+<rect x="705" y="314" width="80" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="716" y="331" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Power BI</text>
+</g><rect x="40" y="367" width="3" height="16" rx="1.5" fill="#6D28D9" opacity="0.6"/><text x="53" y="379" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#14141B" text-anchor="start" opacity="1">Workflow</text><g>
+<rect x="245" y="362" width="101" height="26" rx="13" fill="#EDE9FE" stroke="#6D28D9"/>
+<text x="256" y="379" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#7C3AED">Claude Code</text>
+</g><g>
+<rect x="354" y="362" width="108" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="365" y="379" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Git / GitHub</text>
+</g><g>
+<rect x="470" y="362" width="58" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="481" y="379" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Scrum</text>
+</g><g>
+<rect x="536" y="362" width="72" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="547" y="379" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">ClickUp</text>
+</g><g>
+<rect x="616" y="362" width="72" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="627" y="379" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Postman</text>
+</g><g>
+<rect x="696" y="362" width="58" height="26" rx="13" fill="#F3F3F8" stroke="#E4E4EE"/>
+<text x="707" y="379" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="400" fill="#14141B">Figma</text>
+</g>
+<rect x="40" y="418" width="920" height="1" fill="#E4E4EE"/>
+<circle cx="45" cy="444" r="4" fill="#7C3AED"/>
+<text x="58" y="448" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#5C5C6B" text-anchor="start" opacity="1">destacado = especialidade  ·  tudo nesta lista é experiência profissional em produção, não estudo</text>
+</svg>

@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="428" viewBox="0 0 1000 428" fill="none" role="img">
+<defs>
+<pattern id="gridPat" width="30" height="30" patternUnits="userSpaceOnUse">
+  <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#17171F" stroke-width="1"/>
+</pattern>
+<radialGradient id="glow" cx="55%" cy="10%" r="70%">
+  <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.22"/>
+  <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+  <stop offset="35%" stop-color="#A78BFA"/>
+  <stop offset="65%" stop-color="#8B5CF6"/>
+  <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+</linearGradient></defs>
+<style>
+.pkt{opacity:0.95}
+@media (prefers-reduced-motion: reduce){.pkt{display:none}}</style>
+
+
+<rect width="1000" height="428" rx="16" fill="#0B0B0F"/>
+<rect width="1000" height="428" rx="16" fill="url(#gridPat)"/>
+<rect width="1000" height="428" rx="16" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="999" height="427" rx="16" stroke="#24242F"/>
+<text x="36" y="30" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#E9E9F2" text-anchor="start" opacity="1">O QUE EU CONSTRUO</text>
+<text x="169.8" y="30" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#55556A" text-anchor="start" opacity="1">// o desenho recorrente do meu trabalho: produto na ponta, integração no meio, dinheiro no fim</text>
+<rect x="36" y="47" width="3" height="12" rx="1.5" fill="#8B5CF6" opacity="0.5"/>
+<text x="46" y="57" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" letter-spacing="1.1" fill="#8A8A9E">CANAIS ENTERPRISE</text>
+<rect x="252" y="47" width="3" height="12" rx="1.5" fill="#8B5CF6" opacity="0.5"/>
+<text x="262" y="57" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" letter-spacing="1.1" fill="#8A8A9E">PRODUTO</text>
+<rect x="500" y="47" width="3" height="12" rx="1.5" fill="#8B5CF6" opacity="1"/>
+<text x="510" y="57" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" letter-spacing="1.1" fill="#A78BFA">CAMADA DE INTEGRAÇÃO</text>
+<rect x="764" y="47" width="3" height="12" rx="1.5" fill="#8B5CF6" opacity="0.5"/>
+<text x="774" y="57" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" letter-spacing="1.1" fill="#8A8A9E">SERVIÇOS &amp; DADOS</text>
+<g opacity="0.9"><path id="lk0" d="M 212 107 C 232 107, 232 137, 252 137" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk1" d="M 212 167 C 232 167, 232 137, 252 137" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk2" d="M 212 227 C 232 227, 232 137, 252 137" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk3" d="M 212 287 C 232 287, 232 137, 252 137" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk4" d="M 452 137 C 476 137, 476 155, 500 155" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk5" d="M 452 197 C 476 197, 476 155, 500 155" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk6" d="M 452 257 C 476 257, 476 155, 500 155" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk7" d="M 728 239 C 746 239, 746 97, 764 97" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk8" d="M 728 239 C 746 239, 746 137, 764 137" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk9" d="M 728 239 C 746 239, 746 177, 764 177" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk10" d="M 728 239 C 746 239, 746 217, 764 217" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk11" d="M 728 239 C 746 239, 746 257, 764 257" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/>
+<path id="lk12" d="M 728 239 C 746 239, 746 297, 764 297" stroke="#55556A" stroke-width="1.25" fill="none" opacity="0.5"/></g>
+<path id="lkv" d="M 614 187 L 614 207" stroke="#8B5CF6" stroke-width="1.5" fill="none" opacity="0.65"/>
+<polygon points="610,201 618,201 614,207" fill="#8B5CF6" opacity="0.8"/>
+<circle r="3" fill="#A78BFA" class="pkt">
+  <animateMotion dur="3.6s" begin="0.00s" repeatCount="indefinite" rotate="auto">
+    <mpath href="#lk1" xlink:href="#lk1"/>
+  </animateMotion>
+</circle>
+<circle r="3" fill="#A78BFA" class="pkt">
+  <animateMotion dur="3.6s" begin="0.55s" repeatCount="indefinite" rotate="auto">
+    <mpath href="#lk3" xlink:href="#lk3"/>
+  </animateMotion>
+</circle>
+<circle r="3" fill="#A78BFA" class="pkt">
+  <animateMotion dur="3.6s" begin="1.10s" repeatCount="indefinite" rotate="auto">
+    <mpath href="#lk5" xlink:href="#lk5"/>
+  </animateMotion>
+</circle>
+<circle r="3" fill="#A78BFA" class="pkt">
+  <animateMotion dur="3.6s" begin="1.65s" repeatCount="indefinite" rotate="auto">
+    <mpath href="#lk7" xlink:href="#lk7"/>
+  </animateMotion>
+</circle>
+<circle r="3" fill="#A78BFA" class="pkt">
+  <animateMotion dur="3.6s" begin="2.20s" repeatCount="indefinite" rotate="auto">
+    <mpath href="#lk9" xlink:href="#lk9"/>
+  </animateMotion>
+</circle>
+<circle r="3" fill="#A78BFA" class="pkt">
+  <animateMotion dur="3.6s" begin="2.75s" repeatCount="indefinite" rotate="auto">
+    <mpath href="#lk12" xlink:href="#lk12"/>
+  </animateMotion>
+</circle>
+<g>
+<rect x="36" y="84" width="176" height="46" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="49" y="104" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Itaú</text>
+<text x="49" y="121" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">canal de venda</text>
+</g>
+<g>
+<rect x="36" y="144" width="176" height="46" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="49" y="164" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Unimed</text>
+<text x="49" y="181" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">canal de venda</text>
+</g>
+<g>
+<rect x="36" y="204" width="176" height="46" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="49" y="224" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Assaí</text>
+<text x="49" y="241" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">canal de venda</text>
+</g>
+<g>
+<rect x="36" y="264" width="176" height="46" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="49" y="284" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Pluxee</text>
+<text x="49" y="301" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">canal de venda</text>
+</g>
+<g>
+<rect x="252" y="114" width="200" height="46" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="265" y="134" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Portal de vendas</text>
+<text x="265" y="151" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">Bubble.io</text>
+</g>
+<g>
+<rect x="252" y="174" width="200" height="46" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="265" y="194" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">App mobile</text>
+<text x="265" y="211" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">React Native + Expo</text>
+</g>
+<g>
+<rect x="252" y="234" width="200" height="46" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="265" y="254" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Web</text>
+<text x="265" y="271" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">React · Next.js · TS</text>
+</g>
+<g>
+<rect x="500" y="123" width="228" height="64" rx="9" fill="#231B3B" stroke="#8B5CF6"/>
+<rect x="500" y="133" width="3" height="44" rx="1.5" fill="#A78BFA"/>
+<text x="516" y="152" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#A78BFA">Azure API Management</text>
+<text x="516" y="169" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">auth · chaves · rate limit</text>
+</g>
+<g>
+<rect x="500" y="207" width="228" height="64" rx="9" fill="#231B3B" stroke="#8B5CF6"/>
+<rect x="500" y="217" width="3" height="44" rx="1.5" fill="#A78BFA"/>
+<text x="516" y="236" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#A78BFA">Azure Logic Apps</text>
+<text x="516" y="253" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8A8A9E">orquestração · retry</text>
+</g>
+<g>
+<rect x="764" y="81" width="200" height="32" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="777" y="101" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Asaas</text>
+
+</g>
+<g>
+<rect x="764" y="121" width="200" height="32" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="777" y="141" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Celcoin</text>
+
+</g>
+<g>
+<rect x="764" y="161" width="200" height="32" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="777" y="181" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Vindi</text>
+
+</g>
+<g>
+<rect x="764" y="201" width="200" height="32" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="777" y="221" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">SutHub</text>
+
+</g>
+<g>
+<rect x="764" y="241" width="200" height="32" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="777" y="261" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">SQL Server</text>
+
+</g>
+<g>
+<rect x="764" y="281" width="200" height="32" rx="9" fill="#101018" stroke="#24242F"/>
+
+<text x="777" y="301" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" fill="#E9E9F2">Power BI</text>
+
+</g>
+<rect x="36" y="366" width="928" height="1" fill="#24242F"/>
+<text x="36" y="394" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="600" fill="#A78BFA" text-anchor="start" opacity="1">segurança:</text>
+<text x="116" y="394" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#8A8A9E" text-anchor="start" opacity="1">criptografia · gestão de chaves no API Management · segregação de ambientes · trilha de auditoria</text>
+<text x="36" y="412" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="400" fill="#55556A" text-anchor="start" opacity="1">aprovado no padrão de segurança exigido por um banco — foi isso que viabilizou o canal enterprise</text>
+</svg>

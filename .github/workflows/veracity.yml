@@ -1,0 +1,31 @@
+name: Perfil · veracidade
+
+# Currículo inflacionado é fácil de escrever e difícil de sustentar numa
+# entrevista técnica. Este job falha se o README apresentar como experiência
+# profissional algo que, na minha carreira, foi só estudo ou contato pontual.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README*.md"
+      - "scripts/check-veracity.mjs"
+  pull_request:
+    paths:
+      - "README*.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: o README diz a verdade?
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node scripts/check-veracity.mjs
