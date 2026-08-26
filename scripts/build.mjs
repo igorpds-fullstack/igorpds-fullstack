@@ -58,12 +58,7 @@ if (data) {
     JSON.stringify({
       schemaVersion: 1,
       label: "painéis",
-      message: new Intl.DateTimeFormat("pt-BR", {
-        day: "2-digit",
-        month: "short",
-        year: "numeric",
-        timeZone: "America/Sao_Paulo",
-      }).format(new Date()),
+      message: shortDate(new Date()),
       color: "8b5cf6",
       style: "flat-square",
     })
@@ -84,6 +79,18 @@ if (data) {
       2
     )
   );
+}
+
+/** "26 ago 2026" — o formato do Intl pt-BR fica verboso demais pra um badge. */
+function shortDate(date) {
+  const parts = new Intl.DateTimeFormat("pt-BR", {
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+    timeZone: "America/Sao_Paulo",
+  }).formatToParts(date);
+  const get = (type) => parts.find((p) => p.type === type).value.replace(".", "");
+  return `${get("day")} ${get("month")} ${get("year")}`;
 }
 
 console.log(`pronto — ${count} arquivos.`);
