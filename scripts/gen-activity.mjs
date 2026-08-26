@@ -51,8 +51,20 @@ export function render(t, { locale, data }) {
     d ? txt(PAD, GRID_Y + i * STEP + 9, d, { size: 9.5, fill: t.dim }) : ""
   ).join("");
 
+  // Marca a semana em que a conta foi criada: o vazio à esquerda é ausência
+  // de conta, não ausência de trabalho.
   const gridBottom = GRID_Y + 7 * STEP;
-  const legendY = gridBottom + 24;
+  let accountMark = "";
+  const createdWeek = weeks.findIndex((w) =>
+    w.contributionDays.some((d) => d.date >= data.createdAt.slice(0, 10))
+  );
+  if (createdWeek > 1 && createdWeek < weeks.length - 3) {
+    const mx = GRID_X + createdWeek * STEP - 3;
+    accountMark = `<line x1="${mx}" y1="${GRID_Y - 4}" x2="${mx}" y2="${gridBottom - 1}" stroke="${t.accent}" stroke-width="1" stroke-dasharray="3 3" opacity="0.75"/>
+<circle cx="${mx}" cy="${GRID_Y - 4}" r="2.5" fill="${t.accent2}"/>
+${txt(mx + 6, gridBottom + 14, s.accountStart, { size: 9.5, fill: t.accent2 })}`;
+  }
+  const legendY = gridBottom + 26;
   const legendX = W - PAD - 136;
   const legend =
     txt(legendX, legendY, s.less, { size: 10, fill: t.dim }) +
@@ -86,6 +98,7 @@ ${txt(W - PAD, 40, s.days, { size: 11, fill: t.muted, anchor: "end" })}
 ${monthLabels}
 ${weekdayLabels}
 ${cells}
+${accountMark}
 ${legend}`,
   });
 }

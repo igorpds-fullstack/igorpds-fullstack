@@ -73,6 +73,7 @@ export const S = {
       months: ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"],
       weekdays: ["", "seg", "", "qua", "", "sex", ""],
       tooltip: (n, d) => `${n} em ${d}`,
+      accountStart: "conta criada",
     },
   },
 
@@ -145,6 +146,7 @@ export const S = {
       months: ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"],
       weekdays: ["", "mon", "", "wed", "", "fri", ""],
       tooltip: (n, d) => `${n} on ${d}`,
+      accountStart: "account created",
     },
   },
 };

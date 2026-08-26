@@ -131,6 +131,8 @@ Next.js 16 + React 19, Tailwind v4, PT/EN i18n, animation with Motion and GSAP, 
   </picture>
 </div>
 
+> **On the 2026 start date:** I lost access to my previous GitHub account, and the projects living there went with it. This profile's history starts in February — the 5 years of work don't. The dashed line in the graph above marks that point.
+
 > **On the near-empty shop window:** the overwhelming majority of my code lives in private client repositories — financial systems, an enterprise sales portal, banking integrations. I can't open those, and I'd rather be honest about it than pad the profile with forks. What I can show is at **[igorsantos.dev](https://igorsantos.dev/en)**, with a written case study for each.
 
 <div align="center">
