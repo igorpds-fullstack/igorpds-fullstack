@@ -33,21 +33,21 @@
 <g>
 <rect x="40" y="74" width="172" height="82" rx="10" fill="#FBFBFD" stroke="#E4E4EE"/>
 <rect x="40" y="74" width="172" height="2" rx="1" fill="#6D28D9" opacity="0.85"/>
-<text x="56" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#14141B" letter-spacing="-0.5">640</text>
+<text x="56" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#14141B" letter-spacing="-0.5">690</text>
 <text x="56" y="132" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" fill="#7C3AED">contributions</text>
 <text x="56" y="146" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8A8A9E">last 12 months</text>
 </g>
 <g>
 <rect x="226" y="74" width="172" height="82" rx="10" fill="#FBFBFD" stroke="#E4E4EE"/>
 <rect x="226" y="74" width="172" height="2" rx="1" fill="#6D28D9" opacity="0.73"/>
-<text x="242" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#14141B" letter-spacing="-0.5">79</text>
+<text x="242" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#14141B" letter-spacing="-0.5">80</text>
 <text x="242" y="132" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" fill="#7C3AED">active days</text>
 <text x="242" y="146" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8A8A9E">in the period</text>
 </g>
 <g>
 <rect x="412" y="74" width="172" height="82" rx="10" fill="#FBFBFD" stroke="#E4E4EE"/>
 <rect x="412" y="74" width="172" height="2" rx="1" fill="#6D28D9" opacity="0.61"/>
-<text x="428" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#14141B" letter-spacing="-0.5">8</text>
+<text x="428" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#14141B" letter-spacing="-0.5">9</text>
 <text x="428" y="132" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" fill="#7C3AED">current streak</text>
 <text x="428" y="146" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8A8A9E">days in a row</text>
 </g>
